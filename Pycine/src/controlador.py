@@ -92,7 +92,7 @@ def opcao_invalida():
     voltar_ao_menu_principal()
 
 def exibir_ajuda():
-    print('\n🆘  AJUDA DO SNAKE BOXD\n')
+    print('\n🆘  AJUDA DO PYCINE\n')
     print(' ✦ 1. ➕ Adicionar uma nova obra: Cadastre um novo filme ou animação.')
     print(' ✦ 2. 📋 Listar obras: Veja todas as obras cadastradas.')
     print(' ✦ 3. 🔍 Buscar obra: Encontre uma obra pelo nome.')
