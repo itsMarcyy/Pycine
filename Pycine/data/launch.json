@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Run SnakeBox",
+      "name": "Run Pycine",
       "type": "python",
       "request": "launch",
       "program": "${workspaceFolder}/snakebox/src/main.py",
