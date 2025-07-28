@@ -1,5 +1,5 @@
 def exibir_nome_do_programa():
-    print ('Snake Boxd. 🐍')
+    print ('Pycine. 🐍')
     
 def exibir_opcoes():
     print('─' * 30)
