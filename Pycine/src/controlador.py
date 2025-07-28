@@ -1,5 +1,5 @@
 from obras import Obra
-from interface import voltar_ao_menu_principal
+from interface import
 import sys
 import json
 
