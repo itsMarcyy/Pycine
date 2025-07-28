@@ -22,7 +22,6 @@ def escolher_opcao():
         elif opcao_escolhida ==4:
             editar_obras()
             salvar_obras_em_json()
-        #remover não esta funcionando, n foi programada ainda
         elif opcao_escolhida == 5:
             remover_obra()
             salvar_obras_em_json()
